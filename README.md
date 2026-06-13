@@ -18,7 +18,7 @@ Analyzed a dataset containing **28,027 customer interactions** across multiple a
 - **Revenue Concentration:** Discovered that **79% of total revenue** is generated purely from call consultations, compared to chat and complimentary services.
 - **Uneven Workload:** Agent workload was highly imbalanced. For instance, top agents handled up to 1,580 calls while others handled significantly fewer.
 
-<img width="782" height="298" alt="image" src="https://github.com/user-attachments/assets/84d2aa36-b6f7-49c0-856f-db951b31bfc0" />
+<img width="822" height="432" alt="image" src="https://github.com/user-attachments/assets/99322322-86c6-46dd-afdc-b17e319c4fb3" />
 
 - **Customer Satisfaction:** Despite operational issues, the average customer rating remained strong at **3.96**, with a 0.47 positive correlation between call duration and satisfaction.
 - **What-If Analysis:** Modeled a scenario showing that increasing the completion rate from 12% to 20% would drastically increase revenue and profitability.
